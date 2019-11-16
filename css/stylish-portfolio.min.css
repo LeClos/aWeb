@@ -68,17 +68,14 @@ h6 {
   color: #fff;
   background: rgba(52, 58, 64, 0.5);
   line-height: 45px;
+  font-weight: 800;
 }
 .scroll-to-top:focus,
 .scroll-to-top:hover {
   color: #fff;
+  background-color: rgb(255, 97, 255);
 }
-.scroll-to-top:hover {
-  background: #343a40;
-}
-.scroll-to-top i {
-  font-weight: 800;
-}
+
 .masthead {
   min-height: 30rem;
   position: relative;
@@ -180,10 +177,9 @@ h6 {
 .menu-toggle:focus,
 .menu-toggle:hover {
   color: #fff;
+  background-color: rgb(255, 97, 255);
 }
-.menu-toggle:hover {
-  background: #343a40;
-}
+
 .service-icon {
   background-color: #fff;
   color: #1d809f;
