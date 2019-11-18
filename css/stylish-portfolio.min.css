@@ -42,6 +42,13 @@ h6 {
   background-color: rgb(255, 97, 255);
 }
 
+
+/* Services  */
+.servicetext{
+  font-size: 22px;
+}
+
+
 .map {
   height: 30rem;
 }
@@ -263,7 +270,6 @@ h6 {
     clip-path: inset(2rem);
   }
   .portfolio-item:hover .caption {
-    background-color: rgba(29, 128, 159, 0.9);
     -webkit-clip-path: inset(2rem);
     clip-path: inset(2rem);
   }
@@ -332,3 +338,16 @@ a:hover {
 .text-secondary {
   color: #ecb807 !important;
 }
+
+/* media queries */
+@media screen and (max-width: 770px){
+  #headertext{
+    font-size: 46px;;
+  }
+
+  #subheader{
+    font-size: 22px;
+  }
+}
+
+
