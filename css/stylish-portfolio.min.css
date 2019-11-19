@@ -64,6 +64,19 @@ h6 {
 #lookatme {
   background-color: rgb(255, 97, 255);
 }
+
+/* Contact form */
+#theform{
+  display: block;
+}
+
+#send{
+  background-color: rgb(255, 97, 255);
+  color: white;
+  border: 0px;
+  border-radius: 5px;
+}
+
 .scroll-to-top {
   position: fixed;
   right: 15px;
