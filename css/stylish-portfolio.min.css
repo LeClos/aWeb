@@ -103,9 +103,11 @@ h6 {
 }
 
 /* Contact form */
-#theform{
-  display: block;
+form{
+  position: relative;
+  left: 45%;
 }
+
 
 #contact{
   background-color: rgb(57, 199, 185);
