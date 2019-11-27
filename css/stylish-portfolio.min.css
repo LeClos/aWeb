@@ -41,7 +41,7 @@ h6 {
 #findoutmore {
   background-color: rgb(231, 191, 81);
   position: relative;
-  top: 140px;
+  top: 180px;
 }
 
 #findoutmore:hover{
@@ -50,11 +50,11 @@ h6 {
 
 #headertext{
   position: relative;
-  top: -160px;
+  top: -200px;
 }
 #subheader{
   position: relative;
-  top: -170px;
+  top: -200px;
 }
 
 /* Services  */
